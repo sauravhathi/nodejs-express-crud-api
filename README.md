@@ -66,4 +66,4 @@ Make a DELETE request to http://localhost:3000/:id to delete data by ID.
 **[Saurav Hathi](https://github.com/sauravhathi)**
 
 ## License 📄
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/sauravhathi/nodejs-express-crud-api/blob/master/LICENSE) file for details
